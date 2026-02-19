@@ -66,7 +66,9 @@ The system supports:
     •    Relational Database Management System (MySQL / Oracle / SQL Server).
     •    ER Modeling Tools.
 
-
+## Languages Used
+- SQL
+  
 
 ##How to Run the Project
 
