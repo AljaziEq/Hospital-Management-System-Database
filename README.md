@@ -67,8 +67,7 @@ The system supports:
     •    ER Modeling Tools.
 
 ## Languages Used
-- SQL
-  
+    •    SQL.  
 
 ## How to Run the Project
 
