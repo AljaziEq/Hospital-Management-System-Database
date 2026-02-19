@@ -53,7 +53,7 @@ The system supports:
 
 
 
-##System Architecture 
+## System Architecture 
 
     •    One-to-Many relationships (e.g., Department → Doctors).
     •    Many-to-Many relationships (handled via associative tables where necessary).
@@ -70,7 +70,7 @@ The system supports:
 - SQL
   
 
-##How to Run the Project
+## How to Run the Project
 
 1-Requirements
     •    MySQL / Oracle SQL / SQL Server
